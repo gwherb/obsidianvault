@@ -1,0 +1,6 @@
+- Implement API response parsing
+- Implement early stopping for bad papers
+- Implement author check to pdf files
+- Implement database submission
+- Implement parallelization
+- Add authors of papers to 
