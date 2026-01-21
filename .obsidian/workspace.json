@@ -11,14 +11,10 @@
             "id": "21292ee11438c9a1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Huan Sun Work/reversal/LLM-JEPA Reversal.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "LLM-JEPA Reversal"
+              "title": "New tab"
             }
           }
         ]
@@ -191,14 +187,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "21292ee11438c9a1",
+  "active": "8a067edd73c52ba2",
   "lastOpenFiles": [
-    "Untitled.md",
     "Huan Sun Work/reversal/LLM-JEPA Reversal.md",
     "Huan Sun Work/reversal",
-    "Huan Sun Work/llm-jepa/reversal",
     "Huan Sun Work",
-    "Huan Sun Work/llm-jepa",
     "Contribution Statements/OpenAlex Extraction/To Do.md",
     "Contribution Statements/OpenAlex Extraction/OpenAlex sample set notes.md",
     "Contribution Statements/OpenAlex Extraction",
