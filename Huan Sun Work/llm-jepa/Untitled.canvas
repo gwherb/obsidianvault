@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"8f6afccd2b91a884","x":100,"y":-110,"width":360,"height":50,"type":"text","text":"`cosine(<PRED>, <l_1>) at last layer` "},
+		{"id":"581758aeedf106ce","type":"text","text":"`<f_1><l_1><r><f_2><l_2><PRED>`","x":-280,"y":-160,"width":300,"height":50},
+		{"id":"d0f4a153e77cfdaa","type":"text","text":"`<f_2><l_2><r_inv><f_1><l_1>`","x":-260,"y":-60,"width":280,"height":60},
+		{"id":"a418f54bd272e183","type":"text","text":"`NTP(<f_1><l_1><r><f_2><l_1>)`","x":160,"y":-15,"width":300,"height":50},
+		{"id":"f76fbb9d6ddf2388","type":"text","text":"`Loss = γ·NTP + λ·JEPA`","x":540,"y":-65,"width":240,"height":50}
+	],
+	"edges":[
+		{"id":"7b29e0ffad702cf4","fromNode":"581758aeedf106ce","fromSide":"right","toNode":"8f6afccd2b91a884","toSide":"left"},
+		{"id":"e711b9f6cccb4bf5","fromNode":"d0f4a153e77cfdaa","fromSide":"right","toNode":"8f6afccd2b91a884","toSide":"left"},
+		{"id":"3d4433386aaf4144","fromNode":"8f6afccd2b91a884","fromSide":"right","toNode":"f76fbb9d6ddf2388","toSide":"left"},
+		{"id":"664724aca4d37683","fromNode":"a418f54bd272e183","fromSide":"right","toNode":"f76fbb9d6ddf2388","toSide":"left"}
+	]
+}
