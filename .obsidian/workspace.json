@@ -11,17 +11,14 @@
             "id": "21292ee11438c9a1",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Huan Sun Work/llm-jepa/Untitled.canvas",
-                "viewState": {
-                  "x": 266.41629760915237,
-                  "y": 15.678545154809242,
-                  "zoom": -1.1102230246251565e-16
-                }
+                "file": "Huan Sun Work/llm-jepa/Translation.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Translation"
             }
           }
         ]
@@ -196,10 +193,10 @@
   },
   "active": "21292ee11438c9a1",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Huan Sun Work/llm-jepa/Untitled.canvas",
-    "Huan Sun Work/reversal/LLM-JEPA Reversal.md",
+    "Huan Sun Work/reversal/LLM-JEPA Loss vis.canvas",
     "Huan Sun Work/llm-jepa/Translation.md",
+    "conflict-files-obsidian-git.md",
+    "Huan Sun Work/reversal/LLM-JEPA Reversal.md",
     "Untitled.md",
     "Huan Sun Work/reversal",
     "Huan Sun Work/llm-jepa/reversal",

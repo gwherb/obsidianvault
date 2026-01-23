@@ -13,3 +13,6 @@ Steps to enact:
 	- Visualize representations of chinese and english pairs, T-SNE
 	- Test performance on chinese reasoning/other non-translational tasks
 	- Test transfer learning
+
+Thoughts:
+- If generalized translation of english to other languages and aligning does not present benefits, perhaps anytime non-english data appears in training, using JEPA to align it with english data will result in better multi-lingual models
