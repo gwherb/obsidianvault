@@ -16,3 +16,12 @@ With those points of failure, how do we evaluate performance over time?
 - By logging data characteristics, data drift can be observed by looking at distributions of certain features.
 - By logging prediction results, we can observe if prediction drift is occurring.
 - By observing the two in parallel with production sampling, we can determine if concept drift is happening if data distribution is not changing, but the relationship between data and prediction is changing.
+
+Are there ways of deploying models without taking the risk of them failing? Yes, we can smartly deploy models using techniques that minimize risk by forking over some development/inference overhead.
+
+- Shadow Deployment
+	- Here, we deploy our ML model, have it perform tasks, but don't use them for anything in production. This operation is made to grab data on how the model performs in production.
+- Canary Release (A/B testing)
+	- We can deploy the new model to a small percentage of users to gather info as well as get user sentiment/feedback on the new deployment.
+
+For streamlining this process of monitoring, deployment, and retraining, we can employ MLOps tools like MLflow which allows us to monitor training, compared models, control which models are in deployment, and monitor production model metrics.
