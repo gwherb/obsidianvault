@@ -15,4 +15,17 @@ How can we best use these models while considering the uncertainty that comes al
 		- For classification, if a high confidence is given, we can say that for the input features, most of the data falls in the given category.
 			- For CV detection specifically, if a person is detected with > .9 percent confidence, we can firmly say that the person/pose in the image which was classified closely resembles the persons in the training data.
 	- For this, we can really only use these confidence outputs when we operate in data that lies within the training distribution.
-- 
+
+- Because confidence can only handle uncertainty in the data distribution they are trained in, we need a way to measure uncertainty more generally. Options are:
+	- Monte Carlo Dropout:
+		- Run input with dropout at inference
+			- This simulates running with slightly different models
+		- If we see the data tightly align, we can say that our model has low uncertainty.
+		- If we see a lot of variation, then our model has high uncertainty.
+	- Ensembles:
+		- Train multiple models independently, and combine predictions
+			- Use different initialization, data shuffling, or even architectures
+		- If we see lots of agreement, that is low uncertainty.
+		- Lots of disagreement means high uncertainty.
+		- Ensembling can be done with the same model as well when there is stochastic output
+			- For example, I can run multiple forward passes through an LLM for classification and then do majority voting. The number of disagreements would show uncertainty.
