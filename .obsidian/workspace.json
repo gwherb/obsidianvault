@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Assurance/Monitoring Models.md",
+                "file": "AI Assurance/Uncertainty in ML.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Monitoring Models"
+              "title": "Uncertainty in ML"
             }
           }
         ]
@@ -194,9 +194,10 @@
   },
   "active": "d048c40cfa74304c",
   "lastOpenFiles": [
+    "AI Assurance/Robustness and Adversarial ML.md",
+    "AI Assurance/Uncertainty in ML.md",
     "AI Assurance/Monitoring Models.md",
     "AI Assurance/APL Interview Notes.md",
-    "AI Assurance/Robustness and Adversarial ML.md",
     "Huan Sun Work/reversal/LLM-JEPA Loss vis.canvas",
     "AI Assurance/Hallucination, Jailbreaking, Bias.md",
     "AI Assurance/Drift and Calibration.md",
