@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Assurance/Explainability in ML.md",
+                "file": "AI Assurance/Accuracy, Precision, and Recall.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Explainability in ML"
+              "title": "Accuracy, Precision, and Recall"
             }
           }
         ],
@@ -209,12 +209,12 @@
   },
   "active": "52cc71b0aaf3a154",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "AI Assurance/APL Interview Notes.md",
     "AI Assurance/Explainability in ML.md",
+    "Untitled.canvas",
     "AI Assurance/Uncertainty in ML.md",
     "AI Assurance/Robustness and Adversarial ML.md",
     "AI Assurance/Monitoring Models.md",
-    "AI Assurance/APL Interview Notes.md",
     "Huan Sun Work/reversal/LLM-JEPA Loss vis.canvas",
     "AI Assurance/Hallucination, Jailbreaking, Bias.md",
     "AI Assurance/Drift and Calibration.md",
