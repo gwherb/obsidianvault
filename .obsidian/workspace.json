@@ -11,12 +11,14 @@
             "id": "6742e987a2f22cf3",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "Anish Arora Work/Follow up notes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "icon": "lucide-file",
+              "title": "Follow up notes"
             }
           }
         ]
@@ -192,6 +194,8 @@
   },
   "active": "6742e987a2f22cf3",
   "lastOpenFiles": [
+    "Anish Arora Work",
+    "Anish Arora Work/Follow up notes.md",
     "AI Assurance/Uncertainty in ML.md",
     "AI Assurance/Accuracy, Precision, and Recall.md",
     "AI Assurance/APL Interview Notes.md",
