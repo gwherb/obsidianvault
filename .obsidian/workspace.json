@@ -13,14 +13,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Thesis Research/PDFs/Scaling Laws for Neural Language Models.pdf",
+                "file": "Thesis Research/PDFs/I-JEPA.pdf",
                 "page": 1,
-                "left": -20,
-                "top": 754,
-                "zoom": 0.761029411764706
+                "left": -26,
+                "top": 796,
+                "zoom": 0.5784313725490197
               },
               "icon": "lucide-file-text",
-              "title": "Scaling Laws for Neural Language Models"
+              "title": "I-JEPA"
             }
           }
         ]
@@ -199,8 +199,9 @@
   },
   "active": "6742e987a2f22cf3",
   "lastOpenFiles": [
-    "Huan Sun Work/llm-jepa/Translation.md",
     "Thesis Research/PDFs/Scaling Laws for Neural Language Models.pdf",
+    "Thesis Research/PDFs/I-JEPA.pdf",
+    "Huan Sun Work/llm-jepa/Translation.md",
     "Anish Arora Work/Follow up notes.md",
     "Thesis Research/PDFs",
     "Untitled.md",
