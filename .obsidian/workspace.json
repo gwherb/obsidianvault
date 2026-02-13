@@ -13,14 +13,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Thesis Research/PDFs/I-JEPA.pdf",
+                "file": "Thesis Research/PDFs/zero-shot cross lingual transfer.pdf",
                 "page": 1,
-                "left": -26,
-                "top": 796,
-                "zoom": 0.5784313725490197
+                "left": -36,
+                "top": 845,
+                "zoom": 0.4220731223835667
               },
               "icon": "lucide-file-text",
-              "title": "I-JEPA"
+              "title": "zero-shot cross lingual transfer"
             }
           }
         ]
@@ -199,8 +199,9 @@
   },
   "active": "6742e987a2f22cf3",
   "lastOpenFiles": [
-    "Thesis Research/PDFs/Scaling Laws for Neural Language Models.pdf",
     "Thesis Research/PDFs/I-JEPA.pdf",
+    "Thesis Research/PDFs/zero-shot cross lingual transfer.pdf",
+    "Thesis Research/PDFs/Scaling Laws for Neural Language Models.pdf",
     "Huan Sun Work/llm-jepa/Translation.md",
     "Anish Arora Work/Follow up notes.md",
     "Thesis Research/PDFs",
@@ -225,7 +226,6 @@
     "Huan Sun Work",
     "Huan Sun Work/llm-jepa",
     "Contribution Statements/OpenAlex Extraction/To Do.md",
-    "Contribution Statements/OpenAlex Extraction/OpenAlex sample set notes.md",
-    "Contribution Statements/OpenAlex Extraction"
+    "Contribution Statements/OpenAlex Extraction/OpenAlex sample set notes.md"
   ]
 }
