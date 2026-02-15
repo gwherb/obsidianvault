@@ -15,9 +15,9 @@
               "state": {
                 "file": "Thesis Research/PDFs/zero-shot cross lingual transfer.pdf",
                 "page": 1,
-                "left": -9,
-                "top": 845,
-                "zoom": 1.6681337732413202
+                "left": -18,
+                "top": 846,
+                "zoom": 0.8302871273157327
               },
               "icon": "lucide-file-text",
               "title": "zero-shot cross lingual transfer"
@@ -198,11 +198,12 @@
   },
   "active": "279baa84ee4e7795",
   "lastOpenFiles": [
+    "Thesis Research/PDFs/zero shot cross linguistic similarity.pdf",
+    "Thesis Research/PDFs/zero-shot cross lingual transfer.pdf",
     "Thesis Research/PDFs/Scaling Laws for Neural Language Models.pdf",
     "Thesis Research/PDFs/I-JEPA.pdf",
     "conflict-files-obsidian-git.md",
     "AI Assurance/Accuracy, Precision, and Recall.md",
-    "Thesis Research/PDFs/zero-shot cross lingual transfer.pdf",
     "Thesis Research/PDFs",
     "Thesis Research",
     "Anish Arora Work/Follow up notes.md",
