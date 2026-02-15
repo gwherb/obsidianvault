@@ -4,23 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "73bc2c35f659cf95",
+        "id": "a9dbe0c1f32eb345",
         "type": "tabs",
         "children": [
           {
-            "id": "6742e987a2f22cf3",
+            "id": "f6a6692b2c59567a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Thesis Research/PDFs/zero-shot cross lingual transfer.pdf",
-                "page": 1,
-                "left": -36,
-                "top": 845,
-                "zoom": 0.4220731223835667
-              },
-              "icon": "lucide-file-text",
-              "title": "zero-shot cross lingual transfer"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -179,8 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,15 +190,15 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "6742e987a2f22cf3",
+  "active": "8a067edd73c52ba2",
   "lastOpenFiles": [
-    "Thesis Research/PDFs/I-JEPA.pdf",
+    "Untitled.md",
     "Thesis Research/PDFs/zero-shot cross lingual transfer.pdf",
+    "Thesis Research/PDFs/I-JEPA.pdf",
     "Thesis Research/PDFs/Scaling Laws for Neural Language Models.pdf",
     "Huan Sun Work/llm-jepa/Translation.md",
     "Anish Arora Work/Follow up notes.md",
     "Thesis Research/PDFs",
-    "Untitled.md",
     "Thesis Research",
     "Anish Arora Work",
     "AI Assurance/Uncertainty in ML.md",
@@ -224,7 +217,6 @@
     "Huan Sun Work/reversal",
     "Huan Sun Work/llm-jepa/reversal",
     "Huan Sun Work",
-    "Huan Sun Work/llm-jepa",
     "Contribution Statements/OpenAlex Extraction/To Do.md",
     "Contribution Statements/OpenAlex Extraction/OpenAlex sample set notes.md"
   ]
