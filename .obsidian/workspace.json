@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6addc6a6c7d08686",
+        "id": "3cb6b217d90a84da",
         "type": "tabs",
         "children": [
           {
-            "id": "f9999f6487d59b54",
+            "id": "a5e2af035854aa2a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -190,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8a067edd73c52ba2",
+  "active": "a424ed680a0887da",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "AI Assurance/Accuracy, Precision, and Recall.md",
