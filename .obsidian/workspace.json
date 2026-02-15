@@ -177,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,10 +191,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "21292ee11438c9a1",
+  "active": "a424ed680a0887da",
   "lastOpenFiles": [
-    "AI Assurance/APL Interview Notes.md",
+    "conflict-files-obsidian-git.md",
     "AI Assurance/Accuracy, Precision, and Recall.md",
+    "AI Assurance/APL Interview Notes.md",
     "Huan Sun Work/llm-jepa/Untitled.canvas",
     "Huan Sun Work/reversal/LLM-JEPA Loss vis.canvas",
     "AI Assurance/Uncertainty in ML.md",
@@ -205,7 +205,6 @@
     "AI Assurance/Explainability in ML.md",
     "AI Assurance/Drift and Calibration.md",
     "AI Assurance",
-    "conflict-files-obsidian-git.md",
     "Huan Sun Work/reversal/LLM-JEPA Reversal.md",
     "Huan Sun Work/llm-jepa/Translation.md",
     "Untitled.md",
