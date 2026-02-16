@@ -157,19 +157,9 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
-          },
-          {
-            "id": "a424ed680a0887da",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -190,7 +180,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "a424ed680a0887da",
+  "active": "65dfff6a311f2b56",
   "lastOpenFiles": [
     "Thesis Research/PDFs/zero shot cross linguistic similarity.pdf",
     "Untitled.md",
