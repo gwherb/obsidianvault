@@ -4,17 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "4f1b105986c24627",
+        "id": "f5ac7d4536647f32",
         "type": "tabs",
         "children": [
           {
-            "id": "d75f6a647f75245c",
+            "id": "279baa84ee4e7795",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "Thesis Research/PDFs/zero-shot cross lingual transfer.pdf",
+                "page": 1,
+                "left": -269,
+                "top": 845,
+                "zoom": 0.9021025541093545
+              },
+              "icon": "lucide-file-text",
+              "title": "zero-shot cross lingual transfer"
             }
           }
         ]
@@ -74,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
     "id": "23931da85b7cf1b0",
@@ -157,9 +163,19 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "a424ed680a0887da",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -167,6 +183,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -174,40 +193,42 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "8a067edd73c52ba2",
   "lastOpenFiles": [
-    "Thesis Research/PDFs/zero shot cross linguistic similarity.pdf",
-    "Untitled.md",
+    "Thesis Research/Untitled.canvas",
+    "Pasted image 20260217160929.png",
+    "Pasted image 20260217160949.png",
+    "Pasted image 20260217161015.png",
+    "Pasted image 20260217160957.png",
+    "Thesis Research/Untitled.md",
     "Thesis Research/PDFs/zero-shot cross lingual transfer.pdf",
-    "Thesis Research/PDFs/I-JEPA.pdf",
+    "Thesis Research/PDFs/zero shot cross linguistic similarity.pdf",
     "Thesis Research/PDFs/Scaling Laws for Neural Language Models.pdf",
-    "Huan Sun Work/llm-jepa/Translation.md",
-    "Anish Arora Work/Follow up notes.md",
+    "Thesis Research/PDFs/I-JEPA.pdf",
+    "conflict-files-obsidian-git.md",
+    "AI Assurance/Accuracy, Precision, and Recall.md",
     "Thesis Research/PDFs",
     "Thesis Research",
+    "Anish Arora Work/Follow up notes.md",
     "Anish Arora Work",
-    "AI Assurance/Uncertainty in ML.md",
-    "AI Assurance/Accuracy, Precision, and Recall.md",
     "AI Assurance/APL Interview Notes.md",
-    "AI Assurance/Explainability in ML.md",
-    "Untitled.canvas",
-    "AI Assurance/Robustness and Adversarial ML.md",
-    "AI Assurance/Monitoring Models.md",
+    "Huan Sun Work/llm-jepa/Untitled.canvas",
     "Huan Sun Work/reversal/LLM-JEPA Loss vis.canvas",
+    "AI Assurance/Uncertainty in ML.md",
+    "AI Assurance/Robustness and Adversarial ML.md",
     "AI Assurance/Hallucination, Jailbreaking, Bias.md",
+    "AI Assurance/Monitoring Models.md",
+    "AI Assurance/Explainability in ML.md",
     "AI Assurance/Drift and Calibration.md",
     "AI Assurance",
-    "conflict-files-obsidian-git.md",
     "Huan Sun Work/reversal/LLM-JEPA Reversal.md",
+    "Huan Sun Work/llm-jepa/Translation.md",
+    "Untitled.md",
     "Huan Sun Work/reversal",
     "Huan Sun Work/llm-jepa/reversal",
-    "Huan Sun Work",
     "Contribution Statements/OpenAlex Extraction/To Do.md",
     "Contribution Statements/OpenAlex Extraction/OpenAlex sample set notes.md"
   ]
