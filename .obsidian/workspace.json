@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a9dbe0c1f32eb345",
+        "id": "4f1b105986c24627",
         "type": "tabs",
         "children": [
           {
-            "id": "f6a6692b2c59567a",
+            "id": "d75f6a647f75245c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -180,7 +180,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "65dfff6a311f2b56",
+  "active": "8a067edd73c52ba2",
   "lastOpenFiles": [
     "Thesis Research/PDFs/zero shot cross linguistic similarity.pdf",
     "Untitled.md",
