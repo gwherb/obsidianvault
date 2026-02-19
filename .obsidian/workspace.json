@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thesis Research/Video Notes/JEPA - A path toward autonomous machine intelligence.md",
+                "file": "Thesis Research/Video Notes/V-JEPA Video.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JEPA - A path toward autonomous machine intelligence"
+              "title": "V-JEPA Video"
             }
           }
         ]
@@ -196,8 +196,9 @@
   },
   "active": "279baa84ee4e7795",
   "lastOpenFiles": [
-    "Thesis Research/Video Notes/How I-JEPA works.md",
     "Thesis Research/Video Notes/JEPA - A path toward autonomous machine intelligence.md",
+    "Thesis Research/Video Notes/V-JEPA Video.md",
+    "Thesis Research/Video Notes/How I-JEPA works.md",
     "Thesis Research/PDFs/I-JEPA.pdf",
     "Thesis Research/PDFs/Scaling Laws for Neural Language Models.pdf",
     "Thesis Research/PDFs/zero-shot cross lingual transfer.pdf",
