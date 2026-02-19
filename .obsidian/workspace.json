@@ -11,16 +11,14 @@
             "id": "279baa84ee4e7795",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Thesis Research/PDFs/zero-shot cross lingual transfer.pdf",
-                "page": 1,
-                "left": -269,
-                "top": 845,
-                "zoom": 0.9021025541093545
+                "file": "Thesis Research/Video Notes/JEPA - A path toward autonomous machine intelligence.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "zero-shot cross lingual transfer"
+              "icon": "lucide-file",
+              "title": "JEPA - A path toward autonomous machine intelligence"
             }
           }
         ]
@@ -196,18 +194,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8a067edd73c52ba2",
+  "active": "279baa84ee4e7795",
   "lastOpenFiles": [
+    "Thesis Research/Video Notes/How I-JEPA works.md",
+    "Thesis Research/Video Notes/JEPA - A path toward autonomous machine intelligence.md",
+    "Thesis Research/PDFs/I-JEPA.pdf",
+    "Thesis Research/PDFs/Scaling Laws for Neural Language Models.pdf",
+    "Thesis Research/PDFs/zero-shot cross lingual transfer.pdf",
+    "Thesis Research/Video Notes",
     "Thesis Research/Untitled.canvas",
     "Pasted image 20260217160929.png",
     "Pasted image 20260217160949.png",
     "Pasted image 20260217161015.png",
     "Pasted image 20260217160957.png",
     "Thesis Research/Untitled.md",
-    "Thesis Research/PDFs/zero-shot cross lingual transfer.pdf",
     "Thesis Research/PDFs/zero shot cross linguistic similarity.pdf",
-    "Thesis Research/PDFs/Scaling Laws for Neural Language Models.pdf",
-    "Thesis Research/PDFs/I-JEPA.pdf",
     "conflict-files-obsidian-git.md",
     "AI Assurance/Accuracy, Precision, and Recall.md",
     "Thesis Research/PDFs",
@@ -228,7 +229,6 @@
     "Huan Sun Work/llm-jepa/Translation.md",
     "Untitled.md",
     "Huan Sun Work/reversal",
-    "Huan Sun Work/llm-jepa/reversal",
     "Contribution Statements/OpenAlex Extraction/To Do.md",
     "Contribution Statements/OpenAlex Extraction/OpenAlex sample set notes.md"
   ]
